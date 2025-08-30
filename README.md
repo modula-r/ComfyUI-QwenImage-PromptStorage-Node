@@ -69,6 +69,10 @@ positive, negative = prompt_storage_node.get_prompt("Prompt 1", "", "")
 
 ---
 
+<img width="2569" height="1549" alt="Prompt_choice" src="https://github.com/user-attachments/assets/6c9df091-1673-4b9c-8a8d-14be07b4635b" />
+
+---
+
 In this example, the node returns the positive and negative prompts associated with "Prompt 1" if no manual inputs are provided.
 
 ## License
