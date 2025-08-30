@@ -1,0 +1,137 @@
+{
+  "library": [
+    {
+      "name": "Minimalistischer Arbeitsplatz",
+      "description": "Cleanes, neutrales Büro-Setup mit hoher Detailtiefe.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, clean minimalist office desk, pure white surface, high-gloss, no fingerprints, slim modern monitor, frameless, dark reflective screen, wireless keyboard and mouse, matte finish, small bonsai plant in ceramic pot, modern desk lamp with chrome finish, background blurred with abstract artwork, soft morning light casting shadows, high dynamic range, realistic textures, perfect composition.",
+      "negative": "people, humans, faces, hands, text, logos, watermarks, low resolution, blurry, pixelated, distorted, overexposed, underexposed, noise, grain, chromatic aberration, low-quality CGI look, cartoonish elements, poor composition."
+    },
+    {
+      "name": "High-Tech Arbeitsplatz",
+      "description": "Futuristisches Dual-Monitor-Setup mit LED-Ambiente.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, modern workstation with dual curved monitors, thin bezels, glossy reflections, keyboard backlit, futuristic mouse with RGB accents, desk surface carbon fiber texture, matte finish, ambient LED strips casting soft blue light across background wall, subtle reflections on polished floor, ultra-clean composition, high-tech corporate aesthetic, cinematic lighting.",
+      "negative": "people, humans, faces, text, logos, fingerprints, poor textures, low resolution, artifacts, distortions, cartoonish elements."
+    },
+    {
+      "name": "Kreativer Meetingraum",
+      "description": "Moderner Konferenzbereich mit hochwertigen Materialien.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, modern creative meeting room, large oval wooden table with glossy finish, walnut tone, artistic vase with minimalist greenery, sleek chrome-leather chairs perfectly aligned, notebooks and pens casually arranged, background: glass wall panels with blurred silhouettes of people talking, soft daylight streaming through, high dynamic range, realistic shadows and highlights, premium commercial composition.",
+      "negative": "faces, hands, low-quality CGI, unrealistic reflections, logos, watermarks, low resolution, chromatic aberration."
+    },
+    {
+      "name": "Startup-Office Loft",
+      "description": "Loft-Style Startup Büro mit Lounge-Ecke.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, open startup office in industrial loft style, exposed brick walls, black metal pipes, lounge area with designer sofa, dark grey fabric, wooden coffee table polished surface, laptop closed on table, small plant, magazines, background: desks with softly glowing monitors, hanging industrial lamps emitting warm light, polished concrete floor reflecting soft highlights, cinematic depth of field.",
+      "negative": "people, hands, text, logos, watermarks, clutter, poor composition, noise, artifacts."
+    },
+    {
+      "name": "Premium Konferenzraum",
+      "description": "Hochwertige Business-Szene für Corporate Design.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, large modern conference table, high-gloss walnut surface, glass carafes filled with water, crystal glasses, fine pens on elegant writing pads, black leather chairs with chrome frames, panoramic window with blurred skyline, morning haze soft light, realistic reflections on polished floor, subtle shadows, premium aesthetic, corporate-grade lighting.",
+      "negative": "people, faces, hands, distorted textures, cartoon look, noise, text, watermarks."
+    },
+    {
+      "name": "Office-Küche im Designerstil",
+      "description": "Luxuriöse Büro-Küche mit Marmor- und Holzoptik.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, modern office kitchen, marble countertop with subtle gray veining, built-in espresso machine with chrome details, two ceramic cups with cappuccino, perfect foam, tiny bubbles visible, wooden shelves neatly arranged with glassware and plants, background: blurred seating area with bar stools, soft daylight illuminating scene, premium material rendering.",
+      "negative": "people, faces, hands, text, low-resolution, distortion, clutter, poor lighting."
+    },
+    {
+      "name": "Co-Working Space",
+      "description": "Kreativer offener Arbeitsplatz mit Loft-Charakter.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, open co-working space, desks made of reclaimed wood, unique grain patterns visible, slim monitor and closed notebook on each desk, stylish pen, small potted plants, ambient desk lamps, bookshelves in background with creative items, softly blurred, pendant lights casting warm glow, natural light from side windows, cinematic depth of field, realistic materials.",
+      "negative": "people, faces, logos, text, watermark, poor textures, unrealistic lighting."
+    },
+    {
+      "name": "Moodboard Kreativstudio",
+      "description": "Moodboard mit Stoffmustern, Farbsamples und Skizzen.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, wall-mounted moodboard filled with fabric samples, color swatches, polaroid-style photos, brass clips, foreground: table with open sketchbook, fine pens scattered around, ceramic mug with steaming coffee, background: soft out-of-focus studio lighting, high dynamic range, realistic shadows, premium artistic setting.",
+      "negative": "people, faces, hands, low-quality CGI, logos, poor textures, cartoonish look."
+    },
+    {
+      "name": "Abstraktes Business-Konzept",
+      "description": "Abstraktes Konzeptbild mit Lichtspiel und Symbolik.",
+      "category": "Business & Office",
+	  "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, abstract composition of geometric shapes, smooth metallic surfaces, glass reflections, light beams crossing softly, gradient background in cool business tones (blue, silver, white), high dynamic range, cinematic glow, ultra-detailed textures, conceptual yet realistic style.",
+      "negative": "people, faces, hands, logos, text, watermarks, low-resolution, blurry edges."
+    },
+     {
+      "name": "Luxuriöses Empfangsfoyer",
+      "description": "Eingangsbereich eines Premium-Unternehmens.",
+      "category": "Business & Office",
+      "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, luxurious office lobby, polished marble floor, high-gloss reception desk with wood accents, indirect LED lighting along edges, large abstract art piece on wall, decorative plants in modern planters, background: glass entrance with soft reflections, cinematic highlights, commercial-grade detail.",
+      "negative": "people, hands, faces, logos, clutter, low resolution, distortion."
+    },
+    {
+      "name": "Forschungslabor Reinraum",
+      "description": "Hochmodernes Labor mit steriler Reinraum-Atmosphäre.",
+      "category": "Labor & Technik",
+      "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, sterile research laboratory, clean white surfaces, glossy lab tables with chrome edges, scientific glassware arranged neatly, microscopes with metallic details, subtle reflections on surfaces, cool daylight tones, high dynamic range, blurred background with technical equipment, no human presence.",
+      "negative": "people, faces, hands, logos, watermarks, fingerprints, dust, low resolution, cartoonish elements."
+    },
+    {
+      "name": "High-Tech Elektronik-Arbeitsplatz",
+      "description": "Präzise Elektronik-Montageumgebung mit modernem Werkzeug.",
+      "category": "Labor & Technik",
+      "positive": "Ultra-high-resolution stock photo, 8k, photorealistic, electronics workstation with high-end soldering equipment, circuit boards arranged on antistatic mat, magnifying lamp with LED light halo, fine tools neatly placed, metallic reflections realistic, soft focused background with oscilloscopes and monitors, premium technical atmosphere.",
+      "negative": "people, faces, hands, poor textures, logos, text, distortion, cartoonish look."
+    },
+    {
+      "name": "Chemisches Analyselabor",
+      "description": "Labor mit Chromatografie- und Spektroskopie-Geräten.",
+      "category": "Labor & Technik",
+      "positive": "8k, photorealistic, high-end analytical laboratory, GC-MS and HPLC systems arranged along clean benches, LED-backlit display panels, chemical glassware with clear liquids, reflections on stainless steel surfaces, cool daylight ambiance, blurred background with lab instruments.",
+      "negative": "people, fingerprints, clutter, dust, text overlays."
+    },
+    {
+      "name": "Biotechnologie-Arbeitsbereich",
+      "description": "Steriler Arbeitsplatz für Zellkultur und Genetik.",
+      "category": "Labor & Technik",
+      "positive": "Ultra-detailed 8k, photorealistic, biotechnology clean bench with sterile hood, transparent petri dishes stacked, pipettes with chrome tips, glowing LED indicators, high-contrast reflections, slightly cool color tone, modern research atmosphere.",
+      "negative": "people, faces, hands, contamination, dirt, unrealistic light."
+    },
+    {
+      "name": "Präzisionsmesslabor",
+      "description": "Labor für hochgenaue technische Vermessung.",
+      "category": "Labor & Technik",
+      "positive": "8k, photorealistic, precision measurement laboratory, CMM machine with granite base, laser scanning arm, reflective measurement probes, high-gloss surfaces, controlled lighting, technical backdrop softly blurred.",
+      "negative": "people, fingerprints, distortion, logos."
+    },
+    {
+      "name": "Materialtestlabor",
+      "description": "Prüfumgebung für Metall- und Verbundwerkstoffe.",
+      "category": "Labor & Technik",
+      "positive": "8k, photorealistic, materials testing laboratory with tensile test machine, polished metal samples clamped, LED indicators glowing, subtle reflections on chrome parts, clean and structured environment.",
+      "negative": "people, hands, faces, clutter, fingerprints, poor resolution."
+    },
+    {
+      "name": "Robotik-Forschungslabor",
+      "description": "High-Tech-Raum für Robotik-Entwicklung.",
+      "category": "Labor & Technik",
+      "positive": "8k, photorealistic, robotics lab with articulated robotic arms, glowing control panels, polished metal surfaces, test stations with precision instruments, futuristic but realistic lighting, soft reflections.",
+      "negative": "people, faces, unrealistic sci-fi elements, fingerprints, clutter."
+    },
+    {
+      "name": "Photonik-Labor",
+      "description": "Labor für Laseroptik und Lichttechnologie.",
+      "category": "Labor & Technik",
+      "positive": "8k, photorealistic, photonics laboratory, optical tables with laser paths visible through faint glow, precision mounts, mirrors, and beam splitters with realistic reflections, dark but controlled lighting with high contrast.",
+      "negative": "people, fingerprints, overexposure, text overlays."
+    },
+    {
+      "name": "Nanotechnologie-Labor",
+      "description": "Steriler Forschungsbereich für Nano-Engineering.",
+      "category": "Labor & Technik",
+      "positive": "8k, photorealistic, nanotechnology laboratory, atomic force microscope on anti-vibration table, precision sample holders, metallic and glass surfaces, minimalistic clean-room atmosphere, slightly futuristic look without fantasy elements.",
+      "negative": "people, fingerprints, clutter, distortion."
+    }
+  ]
+}
